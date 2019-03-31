@@ -1,0 +1,4 @@
+# sudo apt-get install python3.5-dev
+tensorflow
+word2vec
+Flask
